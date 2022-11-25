@@ -1,0 +1,13 @@
+- Hi, I’m @Lucas-NL
+- I have a masters degree in High Energy Physics (UFRGS - Brazil), in collaboration with the ALICE experiment at CERN.
+- In my research, I've worked on code development (C++) for analysis of data from ultrarelativistic collision simulations, trying some machine learning features, as well.
+- Currently I'm interested in machine learning and data science, but I also have a growing interest in ethical hacking.
+
+- 📫 You can reach me at my:
+  - email: lucas14.lopes@proton.me
+  -  or linkedin: (coming soon)
+
+<!---
+Lucas-NL/Lucas-NL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
