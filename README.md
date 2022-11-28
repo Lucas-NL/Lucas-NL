@@ -1,6 +1,6 @@
 - Hi, I’m @Lucas-NL
-- I have a masters degree in High Energy Physics (UFRGS - Brazil), in collaboration with the ALICE experiment at CERN.
-- In my research, I've worked on code development (C++) for analysis of data from ultrarelativistic collision simulations, trying some machine learning features, as well.
+- I have a master's degree in High Energy Physics (UFRGS - Brazil), in collaboration with the ALICE experiment at CERN.
+- In my research, I've worked on code development (C++) for analysis of data from ultrarelativistic collision simulations (Monte Carlo simulations), trying some machine learning features, as well (TMVA/C++ and Scikit-learn/Python).
 - Currently I'm interested in machine learning and data science, but I also have a growing interest in ethical hacking.
 
 - 📫 You can reach me at my:
