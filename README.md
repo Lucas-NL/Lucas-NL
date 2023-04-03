@@ -5,7 +5,7 @@
 
 - 📫 You can reach me at my:
   - email: lucas14.lopes@proton.me
-  -  or Linkedin: [Lucas Nunes Lopes](https://www.linkedin.com/in/lucas-nunes-lopes-401909254/)
+  -  or Linkedin: [Lucas Nunes Lopes](https://www.linkedin.com/in/lucas-nl/)
 
 <!---
 Lucas-NL/Lucas-NL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
